@@ -9,5 +9,6 @@ void main()
  printf("\n%d",s);
 p=a*b;
  printf("\n%d",p);
+ printf("the end");
  
 }
